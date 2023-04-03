@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Joyeuses Pâques</title>
+</head>
+<body>
+	<h1>Joyeuses Pâques</h1>
+</body>
+</html>
